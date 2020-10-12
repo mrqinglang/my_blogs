@@ -137,11 +137,11 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'collected_static')
 EMAIL_HOST = 'smtp.qq.com'
 EMAIL_PORT = 465
 #发送邮件的邮箱
-EMAIL_HOST_USER = '2258308250@qq.com'
+EMAIL_HOST_USER = 'xxx@qq.com'
 #在邮箱中设置的客户端授权密码
-EMAIL_HOST_PASSWORD = 'ntecmuvweccbeaeb'
-#收件人看到的发件人
-EMAIL_FROM = '我输了<2258308250@qq.com>'
+EMAIL_HOST_PASSWORD = 'xxx'
+#收件人看到的发件人xxx
+EMAIL_FROM = 'x'x'x我输了<@qq.com>'
 EMAIL_USE_SSL = True   #使用ssl
 
 # 媒体文件地址
